@@ -3,7 +3,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 The project makes use of image segmentation using Hugging Face’s Inference API for processing images using Facebook’s DETR Model. The small webpage will be able to identify different objects in images and enable the user to view them separately
 
 ## Prerequisites
-You're going to need an API Key for using Hugging Face’s Inference API. Go ahead and create an account on Hugging Face in order to get access tokens.
+You're going to need an API Key for using [Hugging Face’s](https://huggingface.co/) Inference API. Go ahead and create an account on Hugging Face in order to get access tokens.
 
 ## Getting Started
 First install the dependencis:
